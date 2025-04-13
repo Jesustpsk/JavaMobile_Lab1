@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplyButtonText">Применить</string>
+    <string name="textViewText">Введите имя</string>
+    <string name="textInputNamePreValue">Имя</string>
+</resources>
